@@ -1,0 +1,4 @@
+﻿  queue_simulation.c
+c:\users\jw969\desktop\배진우\수업\2019-1학기\자료구조와실습\6주차실습\자료구조 6주차\자료구조 6주차\queue_simulation.c(88): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jw969\desktop\배진우\수업\2019-1학기\자료구조와실습\6주차실습\자료구조 6주차\자료구조 6주차\queue_simulation.c(64): warning C4700: 초기화되지 않은 'item' 지역 변수를 사용했습니다.
+  자료구조 6주차.vcxproj -> C:\Users\jw969\Desktop\배진우\수업\2019-1학기\자료구조와실습\6주차실습\자료구조 6주차\Debug\자료구조 6주차.exe

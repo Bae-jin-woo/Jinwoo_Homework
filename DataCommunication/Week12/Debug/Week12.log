@@ -1,0 +1,7 @@
+﻿  hash_dictionary.c
+c:\users\jw969\desktop\배진우\수업\2019-1학기\자료구조와실습\12주차실습\week12\week12\hash_dictionary.c(22): warning C4013: 'toupper'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\jw969\desktop\배진우\수업\2019-1학기\자료구조와실습\12주차실습\week12\week12\hash_dictionary.c(20): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\jw969\desktop\배진우\수업\2019-1학기\자료구조와실습\12주차실습\week12\week12\hash_dictionary.c(21): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 'putch' 선언을 참조하십시오.
+  Week12.vcxproj -> C:\Users\jw969\Desktop\배진우\수업\2019-1학기\자료구조와실습\12주차실습\Week12\Debug\Week12.exe
